@@ -1,0 +1,4 @@
+element,tag,id,type,class,name,aria-autocomplete,title,href,text,value,aria-label
+input,input,email,email,w-full tracking-custom pl-30 xxxl:text-size-18 xxl:text-size-16 text-size-14 placeholder:text-gray-310 text-black rounded-md py-10 xxxl:pr-24 xxl:pr-18 pr-12 xxxl:h-54 xxl:h-47 h-40,email,None,None,None,"None",None,None
+input,input,password,password,w-full tracking-custom pl-30 xxxl:text-size-18 xxl:text-size-16 text-size-14 placeholder:text-gray-310 text-black rounded-md py-10 xxxl:pr-24 xxl:pr-18 pr-12 xxxl:h-54 xxl:h-47 h-40,password,None,None,None,"None",None,None
+button,button,login-button,submit,rounded block w-full text-size-14 h-40 tracking-widest font-bold uppercase g-recaptcha bg-black text-white disabled:opacity-50,None,None,None,None,"Login",None,None
